@@ -1,0 +1,12 @@
+{
+  "name": "moa-procurement-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "concurrently --kill-others --names api,web --prefix-colors blue,green \"npm --prefix backend start\" \"npm --prefix frontend run dev\"",
+    "dev": "npm start"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.4"
+  }
+}

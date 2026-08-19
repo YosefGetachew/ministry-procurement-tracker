@@ -1,0 +1,23 @@
+# Optional: run this if you don't already have PostgreSQL installed locally.
+# Starts a PostgreSQL 16 instance matching the defaults in backend/.env.example.
+#
+# Usage:
+#   docker compose up -d
+#
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: moa_procurement_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: moa_procurement
+    ports:
+      # Use 5434 on the host to avoid conflicting with other local PostgreSQL services.
+      - '5434:5432'
+    volumes:
+      - moa_procurement_data:/var/lib/postgresql/data
+
+volumes:
+  moa_procurement_data:

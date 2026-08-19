@@ -1,0 +1,201 @@
+{"kind":"deck","id":"pr/7spvcw","name":"Deck"}
+{"kind":"layout","layoutId":"943128ee-326e-43e9-956f-c3d40f1ed21c","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"8b5c6602-72af-4075-a911-320dfe544fc4","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/e6b3g5","slide":1,"title":"PROCUREMENT GOVERNANCE","textShapes":5}
+{"kind":"shape","id":"sh/mlw3ap8n","slide":1,"name":"gold-edge","bbox":[0,0,26,720]}
+{"kind":"shape","id":"sh/9o7m54ry","slide":1,"name":"brand-field","bbox":[820,0,460,720]}
+{"kind":"shape","id":"sh/8nelczqd","slide":1,"name":"stripe-0","bbox":[900,110,310,3]}
+{"kind":"shape","id":"sh/vqp47u94","slide":1,"name":"stripe-1","bbox":[942,144,268,3]}
+{"kind":"shape","id":"sh/apg3ep8j","slide":1,"name":"stripe-2","bbox":[984,178,226,3]}
+{"kind":"shape","id":"sh/xc7m94ra","slide":1,"name":"stripe-3","bbox":[1026,212,184,3]}
+{"kind":"shape","id":"sh/wbylgzqp","slide":1,"name":"stripe-4","bbox":[1068,246,142,3]}
+{"kind":"shape","id":"sh/jep4be90","slide":1,"name":"stripe-5","bbox":[1110,280,100,3]}
+{"kind":"shape","id":"sh/idg3i98v","slide":1,"name":"stripe-6","bbox":[1152,314,58,3]}
+{"kind":"shape","id":"sh/8za9s7yd","slide":1,"name":"stripe-7","bbox":[1194,348,16,3]}
+{"kind":"textbox","id":"sh/6xsrqxg7","slide":1,"name":"text","text":"PROCUREMENT GOVERNANCE","textPreview":"PROCUREMENT GOVERNANCE","textChars":22,"textLines":1,"bbox":[74,188,600,26]}
+{"kind":"textbox","id":"sh/7y1sj2hs","slide":1,"name":"text","text":"Approval workflow","textPreview":"Approval workflow","textChars":17,"textLines":1,"bbox":[74,232,660,72]}
+{"kind":"textbox","id":"sh/gna9wry9","slide":1,"name":"text","text":"From procurement planning to final Ministry Management decision","textPreview":"From procurement planning to final Ministry Management decision","textChars":63,"textLines":1,"bbox":[74,320,630,78]}
+{"kind":"shape","id":"sh/ho3apwzu","slide":1,"name":"rule","bbox":[74,430,110,6]}
+{"kind":"textbox","id":"sh/ulsruhgj","slide":1,"name":"text","text":"Step-by-step operating guide","textPreview":"Step-by-step operating guide","textChars":28,"textLines":1,"bbox":[74,456,500,35]}
+{"kind":"textbox","id":"sh/vm1snmho","slide":1,"name":"text","text":"Ministry of Agriculture  |  Procurement Tracking System","textPreview":"Ministry of Agriculture  |  Procurement Tracking System","textChars":55,"textLines":1,"bbox":[74,632,650,26]}
+{"kind":"image","id":"im/q5cbyx0n","slide":1,"name":"","alt":"Ministry of Agriculture logo","bbox":[74,62,150,90]}
+{"kind":"notes","id":"nt/e6b3g5","slide":1,"text":"[Sources]\n- Brand asset: D:/OneDrive/projects/ministry-procurement-tracker/frontend/src/assets/ministry-logo.png\n- Workflow source: user-approved PTS workflow and local application implementation, 12 August 2026."}
+{"kind":"slide","id":"sl/064m4l","slide":2,"title":"EXECUTIVE VIEW","textShapes":26}
+{"kind":"textbox","id":"sh/lwr6x0rm","slide":2,"name":"eyebrow","text":"EXECUTIVE VIEW","textPreview":"EXECUTIVE VIEW","textChars":14,"textLines":1,"bbox":[72,34,700,24]}
+{"kind":"textbox","id":"sh/ytgn2lsb","slide":2,"name":"slide-title","text":"One controlled chain moves every plan to a final decision","textPreview":"One controlled chain moves every plan to a final decision","textChars":57,"textLines":1,"bbox":[72,63,1050,54]}
+{"kind":"shape","id":"sh/jupovq9g","slide":2,"name":"rule","bbox":[72,126,84,5]}
+{"kind":"textbox","id":"sh/8jip8fad","slide":2,"name":"page-number","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1162,42,46,28]}
+{"kind":"shape","id":"sh/tkr610ry","slide":2,"bbox":[238,293,70,40]}
+{"kind":"shape","id":"sh/6x0n65s7","slide":2,"bbox":[464,293,70,40]}
+{"kind":"shape","id":"sh/7i9oza9s","slide":2,"bbox":[690,293,70,40]}
+{"kind":"shape","id":"sh/one5wbat","slide":2,"bbox":[916,293,70,40]}
+{"kind":"shape","id":"sh/9o76pgre","slide":2,"name":"stage-0","bbox":[74,218,182,198]}
+{"kind":"textbox","id":"sh/l4jels7e","slide":2,"name":"text","text":"01–03","textPreview":"01–03","textChars":5,"textLines":1,"bbox":[92,238,145,22]}
+{"kind":"textbox","id":"sh/03adsn6t","slide":2,"name":"text","text":"PLAN","textPreview":"PLAN","textChars":4,"textLines":1,"bbox":[92,273,145,35]}
+{"kind":"textbox","id":"sh/z21wjipo","slide":2,"name":"text","text":"Officer","textPreview":"Officer","textChars":7,"textLines":1,"bbox":[92,320,145,22]}
+{"kind":"textbox","id":"sh/y1svqdo3","slide":2,"name":"text","text":"Prepare activities\nand submit","textPreview":"Prepare activities | and submit","textChars":29,"textLines":2,"bbox":[92,352,145,48]}
+{"kind":"shape","id":"sh/9s3eps7q","slide":2,"name":"stage-1","bbox":[300,218,182,198]}
+{"kind":"textbox","id":"sh/8rudwn65","slide":2,"name":"text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[318,238,145,22]}
+{"kind":"textbox","id":"sh/76lwnipk","slide":2,"name":"text","text":"SCREEN","textPreview":"SCREEN","textChars":6,"textLines":1,"bbox":[318,273,145,35]}
+{"kind":"textbox","id":"sh/m5cvudoz","slide":2,"name":"text","text":"Director","textPreview":"Director","textChars":8,"textLines":1,"bbox":[318,320,145,22]}
+{"kind":"textbox","id":"sh/hw3etcnm","slide":2,"name":"text","text":"Approve, return\nor reject","textPreview":"Approve, return | or reject","textChars":25,"textLines":2,"bbox":[318,352,145,48]}
+{"kind":"shape","id":"sh/wvux0761","slide":2,"name":"stage-2","bbox":[526,218,182,198]}
+{"kind":"textbox","id":"sh/gbmpcfip","slide":2,"name":"text","text":"05–06","textPreview":"05–06","textChars":5,"textLines":1,"bbox":[544,238,145,22]}
+{"kind":"textbox","id":"sh/1cvql0za","slide":2,"name":"text","text":"ENDORSE","textPreview":"ENDORSE","textChars":7,"textLines":1,"bbox":[544,273,145,35]}
+{"kind":"textbox","id":"sh/e947a50j","slide":2,"name":"text","text":"5 members","textPreview":"5 members","textChars":9,"textLines":1,"bbox":[544,320,145,22]}
+{"kind":"textbox","id":"sh/fad8jah4","slide":2,"name":"text","text":"Independent vote\n3 votes decide","textPreview":"Independent vote | 3 votes decide","textChars":31,"textLines":2,"bbox":[544,352,145,48]}
+{"kind":"shape","id":"sh/of6pgfil","slide":2,"name":"stage-3","bbox":[752,218,182,198]}
+{"kind":"textbox","id":"sh/pgfqpkz6","slide":2,"name":"text","text":"07–08","textPreview":"07–08","textChars":5,"textLines":1,"bbox":[770,238,145,22]}
+{"kind":"textbox","id":"sh/2d47e50f","slide":2,"name":"text","text":"APPROVE","textPreview":"APPROVE","textChars":7,"textLines":1,"bbox":[770,273,145,35]}
+{"kind":"textbox","id":"sh/3ex8nah0","slide":2,"name":"text","text":"Management","textPreview":"Management","textChars":10,"textLines":1,"bbox":[770,320,145,22]}
+{"kind":"textbox","id":"sh/4j2p4vih","slide":2,"name":"text","text":"Final approve\nor reject","textPreview":"Final approve | or reject","textChars":23,"textLines":2,"bbox":[770,352,145,48]}
+{"kind":"shape","id":"sh/5kb6dgz2","slide":2,"name":"stage-4","bbox":[978,218,182,198]}
+{"kind":"textbox","id":"sh/ne1sjy1k","slide":2,"name":"text","text":"09–13","textPreview":"09–13","textChars":5,"textLines":1,"bbox":[996,238,145,22]}
+{"kind":"textbox","id":"sh/mdsratkz","slide":2,"name":"text","text":"DELIVER","textPreview":"DELIVER","textChars":7,"textLines":1,"bbox":[996,273,145,35]}
+{"kind":"textbox","id":"sh/90jaloja","slide":2,"name":"text","text":"Officer","textPreview":"Officer","textChars":7,"textLines":1,"bbox":[996,320,145,22]}
+{"kind":"textbox","id":"sh/8zatcj25","slide":2,"name":"text","text":"Contract, track\nand close","textPreview":"Contract, track | and close","textChars":25,"textLines":2,"bbox":[996,352,145,48]}
+{"kind":"shape","id":"sh/zahsfe18","slide":2,"name":"control-band","bbox":[74,466,1088,116]}
+{"kind":"textbox","id":"sh/y98r69kn","slide":2,"name":"text","text":"CONTROL PRINCIPLE","textPreview":"CONTROL PRINCIPLE","textChars":17,"textLines":1,"bbox":[98,486,220,22]}
+{"kind":"textbox","id":"sh/lczahoje","slide":2,"name":"text","text":"No purchase proceeds without an approved plan, documented decisions and traceable ownership.","textPreview":"No purchase proceeds without an approved plan, documented decisions and traceable ownership.","textChars":92,"textLines":1,"bbox":[98,518,980,40]}
+{"kind":"textbox","id":"sh/0bq98j2t","slide":2,"name":"footer","text":"MoA Procurement Tracking System  •  Approval workflow","textPreview":"MoA Procurement Tracking System  •  Approval workflow","textChars":53,"textLines":1,"bbox":[72,682,620,18]}
+{"kind":"notes","id":"nt/064m4l","slide":2,"text":"[Sources]\n- Workflow source: user-approved PTS workflow and local application implementation, 12 August 2026."}
+{"kind":"slide","id":"sl/nuzl5g","slide":3,"title":"STEPS 1–3","textShapes":18}
+{"kind":"textbox","id":"sh/7q5g3axs","slide":3,"name":"eyebrow","text":"STEPS 1–3","textPreview":"STEPS 1–3","textChars":9,"textLines":1,"bbox":[72,34,700,24]}
+{"kind":"textbox","id":"sh/8rexcvyd","slide":3,"name":"slide-title","text":"The Procurement Officer creates the auditable foundation","textPreview":"The Procurement Officer creates the auditable foundation","textChars":56,"textLines":1,"bbox":[72,63,1050,54]}
+{"kind":"shape","id":"sh/9s7y50fy","slide":3,"name":"rule","bbox":[72,126,84,5]}
+{"kind":"textbox","id":"sh/utgfe5gj","slide":3,"name":"page-number","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1162,42,46,28]}
+{"kind":"shape","id":"sh/vepg7ax4","slide":3,"bbox":[278,268,90,36]}
+{"kind":"shape","id":"sh/wfyhgfyp","slide":3,"bbox":[586,268,90,36]}
+{"kind":"textbox","id":"sh/hg7y9kfa","slide":3,"name":"step-1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[74,202,44,44]}
+{"kind":"textbox","id":"sh/ihgzipgf","slide":3,"name":"text","text":"Select an assigned project","textPreview":"Select an assigned project","textChars":26,"textLines":1,"bbox":[74,260,240,56]}
+{"kind":"textbox","id":"sh/jipgbux0","slide":3,"name":"text","text":"Only projects previously assigned to the requester are available.","textPreview":"Only projects previously assigned to the requester are available.","textChars":65,"textLines":1,"bbox":[74,326,248,90]}
+{"kind":"textbox","id":"sh/jyh0zy5w","slide":3,"name":"step-2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[382,202,44,44]}
+{"kind":"textbox","id":"sh/ixozqtob","slide":3,"name":"text","text":"Build the procurement plan","textPreview":"Build the procurement plan","textChars":26,"textLines":1,"bbox":[382,260,240,56]}
+{"kind":"textbox","id":"sh/50zi18n2","slide":3,"name":"text","text":"Add activities, methods, estimates, funding and milestone dates.","textPreview":"Add activities, methods, estimates, funding and milestone dates.","textChars":64,"textLines":1,"bbox":[382,326,248,90]}
+{"kind":"textbox","id":"sh/4zqhs36h","slide":3,"name":"step-3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[690,202,44,44]}
+{"kind":"textbox","id":"sh/vax0ve5k","slide":3,"name":"text","text":"Submit a complete plan","textPreview":"Submit a complete plan","textChars":22,"textLines":1,"bbox":[690,260,240,56]}
+{"kind":"textbox","id":"sh/u9ozm9of","slide":3,"name":"text","text":"Validation blocks submission when activities or planned dates are missing.","textPreview":"Validation blocks submission when activities or planned dates are missing.","textChars":74,"textLines":1,"bbox":[690,326,248,90]}
+{"kind":"shape","id":"sh/hwfixonq","slide":3,"name":"quality-gate","bbox":[976,190,230,238]}
+{"kind":"textbox","id":"sh/wb6hoj65","slide":3,"name":"text","text":"QUALITY GATE","textPreview":"QUALITY GATE","textChars":12,"textLines":1,"bbox":[998,215,184,22]}
+{"kind":"textbox","id":"sh/f6107i54","slide":3,"name":"text","text":"Ready to submit?","textPreview":"Ready to submit?","textChars":16,"textLines":1,"bbox":[998,252,184,36]}
+{"kind":"textbox","id":"sh/e58jydoj","slide":3,"name":"text","text":"✓ Assigned project\n✓ Procurement activity\n✓ Method and amount\n✓ All milestone dates","textPreview":"✓ Assigned project | ✓ Procurement activity | ✓ Method and amount | ✓ All milestone dates","textChars":83,"textLines":4,"bbox":[998,309,184,100]}
+{"kind":"shape","id":"sh/a1c3qh8r","slide":3,"name":"principle","bbox":[74,478,1132,112]}
+{"kind":"textbox","id":"sh/bmlkzmpc","slide":3,"name":"text","text":"Why this matters","textPreview":"Why this matters","textChars":16,"textLines":1,"bbox":[98,496,210,25]}
+{"kind":"textbox","id":"sh/cnulsrqx","slide":3,"name":"text","text":"Planning data becomes the single source for later purchase requests, approvals, contracts and performance tracking.","textPreview":"Planning data becomes the single source for later purchase requests, approvals, contracts and performance tracking.","textChars":115,"textLines":1,"bbox":[98,530,1038,42]}
+{"kind":"textbox","id":"sh/xo321c7i","slide":3,"name":"footer","text":"MoA Procurement Tracking System  •  Approval workflow","textPreview":"MoA Procurement Tracking System  •  Approval workflow","textChars":53,"textLines":1,"bbox":[72,682,620,18]}
+{"kind":"notes","id":"nt/nuzl5g","slide":3,"text":"[Sources]\n- Workflow source: PTS procurement plan validation and assigned-project rules in the local application."}
+{"kind":"slide","id":"sl/n2bvbb","slide":4,"title":"STEP 4","textShapes":16}
+{"kind":"textbox","id":"sh/yps7exgb","slide":4,"name":"eyebrow","text":"STEP 4","textPreview":"STEP 4","textChars":6,"textLines":1,"bbox":[72,34,700,24]}
+{"kind":"textbox","id":"sh/lc3q9czm","slide":4,"name":"slide-title","text":"The Director is the first formal decision gate","textPreview":"The Director is the first formal decision gate","textChars":46,"textLines":1,"bbox":[72,63,1050,54]}
+{"kind":"shape","id":"sh/kbapg7y1","slide":4,"name":"rule","bbox":[72,126,84,5]}
+{"kind":"textbox","id":"sh/bm1832hk","slide":4,"name":"page-number","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1162,42,46,28]}
+{"kind":"shape","id":"sh/qls7axgz","slide":4,"bbox":[590,235,84,36]}
+{"kind":"shape","id":"sh/xojq5szq","slide":4,"bbox":[590,342,84,36]}
+{"kind":"shape","id":"sh/cnapc7y5","slide":4,"bbox":[590,449,84,36]}
+{"kind":"shape","id":"sh/vil8fmh4","slide":4,"name":"director-review","bbox":[86,258,430,232]}
+{"kind":"textbox","id":"sh/uhc7mhgj","slide":4,"name":"label","text":"PROCUREMENT DIRECTOR","textPreview":"PROCUREMENT DIRECTOR","textChars":20,"textLines":1,"bbox":[116,286,210,30]}
+{"kind":"textbox","id":"sh/wzy1wzat","slide":4,"name":"text","text":"Review completeness, strategic fit and readiness for endorsement.","textPreview":"Review completeness, strategic fit and readiness for endorsement.","textChars":65,"textLines":1,"bbox":[116,342,350,94]}
+{"kind":"shape","id":"sh/h072p4re","slide":4,"name":"outcome-0","bbox":[674,196,500,82]}
+{"kind":"textbox","id":"sh/axgjups3","slide":4,"name":"text","text":"APPROVE","textPreview":"APPROVE","textChars":7,"textLines":1,"bbox":[696,211,112,24]}
+{"kind":"textbox","id":"sh/vypknu98","slide":4,"name":"text","text":"Send to Endorsing Committee","textPreview":"Send to Endorsing Committee","textChars":27,"textLines":1,"bbox":[826,206,320,28]}
+{"kind":"textbox","id":"sh/8ve1sfax","slide":4,"name":"text","text":"Comment optional","textPreview":"Comment optional","textChars":16,"textLines":1,"bbox":[826,239,300,20]}
+{"kind":"shape","id":"sh/9w72lkri","slide":4,"name":"outcome-1","bbox":[674,303,500,82]}
+{"kind":"textbox","id":"sh/m9wjqpsr","slide":4,"name":"text","text":"RETURN","textPreview":"RETURN","textChars":6,"textLines":1,"bbox":[696,318,112,24]}
+{"kind":"textbox","id":"sh/na5kju9c","slide":4,"name":"text","text":"Officer corrects and resubmits","textPreview":"Officer corrects and resubmits","textChars":30,"textLines":1,"bbox":[826,313,320,28]}
+{"kind":"textbox","id":"sh/07e1ofal","slide":4,"name":"text","text":"Reason required","textPreview":"Reason required","textChars":15,"textLines":1,"bbox":[826,346,300,20]}
+{"kind":"shape","id":"sh/l8n2hkr6","slide":4,"name":"outcome-2","bbox":[674,410,500,82]}
+{"kind":"textbox","id":"sh/1svq5czy","slide":4,"name":"text","text":"REJECT","textPreview":"REJECT","textChars":6,"textLines":1,"bbox":[696,425,112,24]}
+{"kind":"textbox","id":"sh/grm9w7yd","slide":4,"name":"text","text":"Workflow stops at Director","textPreview":"Workflow stops at Director","textChars":26,"textLines":1,"bbox":[826,420,320,28]}
+{"kind":"textbox","id":"sh/fqd832hs","slide":4,"name":"text","text":"Reason required","textPreview":"Reason required","textChars":15,"textLines":1,"bbox":[826,453,300,20]}
+{"kind":"textbox","id":"sh/ep4ruxg7","slide":4,"name":"text","text":"Decision comments become part of the permanent approval history.","textPreview":"Decision comments become part of the permanent approval history.","textChars":64,"textLines":1,"bbox":[86,568,900,36]}
+{"kind":"textbox","id":"sh/tovq1czm","slide":4,"name":"footer","text":"MoA Procurement Tracking System  •  Approval workflow","textPreview":"MoA Procurement Tracking System  •  Approval workflow","textChars":53,"textLines":1,"bbox":[72,682,620,18]}
+{"kind":"notes","id":"nt/n2bvbb","slide":4,"text":"[Sources]\n- Workflow source: Director review rules implemented in the PTS backend."}
+{"kind":"slide","id":"sl/ygqt5o","slide":5,"title":"STEPS 5–6","textShapes":21}
+{"kind":"textbox","id":"sh/tsfel0ve","slide":5,"name":"eyebrow","text":"STEPS 5–6","textPreview":"STEPS 5–6","textChars":9,"textLines":1,"bbox":[72,34,700,24]}
+{"kind":"textbox","id":"sh/6pova5wn","slide":5,"name":"slide-title","text":"Five independent votes produce one Endorsing Committee outcome","textPreview":"Five independent votes produce one Endorsing Committee outcome","textChars":62,"textLines":1,"bbox":[72,63,1050,54]}
+{"kind":"shape","id":"sh/7qxwjad8","slide":5,"name":"rule","bbox":[72,126,84,5]}
+{"kind":"textbox","id":"sh/kn6d8veh","slide":5,"name":"page-number","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1162,42,46,28]}
+{"kind":"shape","id":"sh/lofeh0v2","slide":5,"name":"member-0","bbox":[112,205,78,78]}
+{"kind":"textbox","id":"sh/yl4v6lwr","slide":5,"name":"text","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[112,221,78,38]}
+{"kind":"textbox","id":"sh/jmdwfqdc","slide":5,"name":"text","text":"MEMBER","textPreview":"MEMBER","textChars":6,"textLines":1,"bbox":[108,292,86,20]}
+{"kind":"shape","id":"sh/wjmd4bel","slide":5,"name":"member-1","bbox":[267,205,78,78]}
+{"kind":"textbox","id":"sh/xkvedgf6","slide":5,"name":"text","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[267,221,78,38]}
+{"kind":"textbox","id":"sh/1sral4bm","slide":5,"name":"text","text":"MEMBER","textPreview":"MEMBER","textChars":6,"textLines":1,"bbox":[263,292,86,20]}
+{"kind":"shape","id":"sh/gritsza1","slide":5,"name":"member-2","bbox":[422,205,78,78]}
+{"kind":"textbox","id":"sh/fq9sjetg","slide":5,"name":"text","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[422,221,78,38]}
+{"kind":"textbox","id":"sh/ep0bq9sv","slide":5,"name":"text","text":"MEMBER","textPreview":"MEMBER","textChars":6,"textLines":1,"bbox":[418,292,86,20]}
+{"kind":"shape","id":"sh/torah4bq","slide":5,"name":"member-3","bbox":[577,205,78,78]}
+{"kind":"textbox","id":"sh/snitozu5","slide":5,"name":"text","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[577,221,78,38]}
+{"kind":"textbox","id":"sh/rm9sfutk","slide":5,"name":"text","text":"MEMBER","textPreview":"MEMBER","textChars":6,"textLines":1,"bbox":[573,292,86,20]}
+{"kind":"shape","id":"sh/6lgrmpcz","slide":5,"name":"member-4","bbox":[732,205,78,78]}
+{"kind":"textbox","id":"sh/5k7adkbe","slide":5,"name":"text","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[732,221,78,38]}
+{"kind":"textbox","id":"sh/4jy9kfut","slide":5,"name":"text","text":"MEMBER","textPreview":"MEMBER","textChars":6,"textLines":1,"bbox":[728,292,86,20]}
+{"kind":"shape","id":"sh/w32t0z2p","slide":5,"bbox":[868,238,92,40]}
+{"kind":"shape","id":"sh/x4ba9kja","slide":5,"name":"threshold","bbox":[972,190,232,140]}
+{"kind":"textbox","id":"sh/a1kbypkj","slide":5,"name":"text","text":"3 of 5","textPreview":"3 of 5","textChars":6,"textLines":1,"bbox":[992,214,192,48]}
+{"kind":"textbox","id":"sh/v2ts7u14","slide":5,"name":"text","text":"votes determine\nthe outcome","textPreview":"votes determine | the outcome","textChars":27,"textLines":2,"bbox":[992,268,192,48]}
+{"kind":"shape","id":"sh/8zitwf2t","slide":5,"name":"endorse","bbox":[90,389,500,142]}
+{"kind":"textbox","id":"sh/90ba5kje","slide":5,"name":"text","text":"3 APPROVAL VOTES","textPreview":"3 APPROVAL VOTES","textChars":16,"textLines":1,"bbox":[116,411,450,24]}
+{"kind":"textbox","id":"sh/md0bu5kn","slide":5,"name":"text","text":"Plan is endorsed and advances to Ministry Management approval.","textPreview":"Plan is endorsed and advances to Ministry Management approval.","textChars":62,"textLines":1,"bbox":[116,449,430,58]}
+{"kind":"shape","id":"sh/ny9s3a18","slide":5,"name":"reject","bbox":[622,389,500,142]}
+{"kind":"textbox","id":"sh/svmt8jix","slide":5,"name":"text","text":"3 REJECTION VOTES","textPreview":"3 REJECTION VOTES","textChars":17,"textLines":1,"bbox":[648,411,450,24]}
+{"kind":"textbox","id":"sh/twvuh4ji","slide":5,"name":"text","text":"Plan is rejected by the Endorsing Committee and does not advance.","textPreview":"Plan is rejected by the Endorsing Committee and does not advance.","textChars":65,"textLines":1,"bbox":[648,449,430,58]}
+{"kind":"textbox","id":"sh/3qxw7ilk","slide":5,"name":"text","text":"Every member votes once. Individual decisions and comments remain traceable.","textPreview":"Every member votes once. Individual decisions and comments remain traceable.","textChars":76,"textLines":1,"bbox":[90,576,980,28]}
+{"kind":"textbox","id":"sh/2povyd4z","slide":5,"name":"footer","text":"MoA Procurement Tracking System  •  Approval workflow","textPreview":"MoA Procurement Tracking System  •  Approval workflow","textChars":53,"textLines":1,"bbox":[72,682,620,18]}
+{"kind":"notes","id":"nt/ygqt5o","slide":5,"text":"[Sources]\n- Workflow source: five-member Endorsing Committee and 3-vote thresholds implemented in the PTS backend."}
+{"kind":"slide","id":"sl/s3z1cs","slide":6,"title":"STEPS 7–8","textShapes":13}
+{"kind":"textbox","id":"sh/h0va1snm","slide":6,"name":"eyebrow","text":"STEPS 7–8","textPreview":"STEPS 7–8","textChars":9,"textLines":1,"bbox":[72,34,700,24]}
+{"kind":"textbox","id":"sh/ux4rqxov","slide":6,"name":"slide-title","text":"Ministry Management makes the final institutional decision","textPreview":"Ministry Management makes the final institutional decision","textChars":58,"textLines":1,"bbox":[72,63,1050,54]}
+{"kind":"shape","id":"sh/fydsz25g","slide":6,"name":"rule","bbox":[72,126,84,5]}
+{"kind":"textbox","id":"sh/436tw76x","slide":6,"name":"page-number","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1162,42,46,28]}
+{"kind":"shape","id":"sh/p4fa5cni","slide":6,"name":"entry","bbox":[74,181,1132,92]}
+{"kind":"textbox","id":"sh/214buxo7","slide":6,"name":"text","text":"ENTRY CONDITION","textPreview":"ENTRY CONDITION","textChars":15,"textLines":1,"bbox":[102,200,190,22]}
+{"kind":"textbox","id":"sh/32xs325s","slide":6,"name":"text","text":"The plan has secured at least three Endorsing Committee approvals.","textPreview":"The plan has secured at least three Endorsing Committee approvals.","textChars":66,"textLines":1,"bbox":[302,198,840,40]}
+{"kind":"shape","id":"sh/k729k36t","slide":6,"bbox":[350,309,54,48]}
+{"kind":"shape","id":"sh/58bat87e","slide":6,"bbox":[874,309,54,48]}
+{"kind":"shape","id":"sh/xgrax43q","slide":6,"name":"approve","bbox":[100,372,480,178]}
+{"kind":"textbox","id":"sh/cvi94z25","slide":6,"name":"text","text":"FINAL APPROVAL","textPreview":"FINAL APPROVAL","textChars":14,"textLines":1,"bbox":[128,396,420,25]}
+{"kind":"textbox","id":"sh/bu9svulk","slide":6,"name":"text","text":"Comment is optional","textPreview":"Comment is optional","textChars":19,"textLines":1,"bbox":[128,436,420,38]}
+{"kind":"textbox","id":"sh/at0r29kf","slide":6,"name":"text","text":"Plan becomes Finally Approved and implementation may begin.","textPreview":"Plan becomes Finally Approved and implementation may begin.","textChars":59,"textLines":1,"bbox":[128,492,410,38]}
+{"kind":"shape","id":"sh/lkba1o32","slide":6,"name":"reject","bbox":[700,372,480,178]}
+{"kind":"textbox","id":"sh/kj298j2h","slide":6,"name":"text","text":"FINAL REJECTION","textPreview":"FINAL REJECTION","textChars":15,"textLines":1,"bbox":[728,396,420,25]}
+{"kind":"textbox","id":"sh/zitszelw","slide":6,"name":"text","text":"Reason is mandatory","textPreview":"Reason is mandatory","textChars":19,"textLines":1,"bbox":[728,436,420,38]}
+{"kind":"textbox","id":"sh/yh0r69kb","slide":6,"name":"text","text":"The system blocks rejection until a reason is entered.","textPreview":"The system blocks rejection until a reason is entered.","textChars":54,"textLines":1,"bbox":[728,492,410,38]}
+{"kind":"textbox","id":"sh/9oba5o3y","slide":6,"name":"label","text":"SYSTEM-ENFORCED CONTROL","textPreview":"SYSTEM-ENFORCED CONTROL","textChars":23,"textLines":1,"bbox":[488,596,304,30]}
+{"kind":"textbox","id":"sh/8n29cj2d","slide":6,"name":"footer","text":"MoA Procurement Tracking System  •  Approval workflow","textPreview":"MoA Procurement Tracking System  •  Approval workflow","textChars":53,"textLines":1,"bbox":[72,682,620,18]}
+{"kind":"notes","id":"nt/s3z1cs","slide":6,"text":"[Sources]\n- Workflow source: Ministry Management approval and mandatory rejection-reason rules implemented in the PTS backend."}
+{"kind":"slide","id":"sl/xxcg4o","slide":7,"title":"STEPS 9–13","textShapes":22}
+{"kind":"textbox","id":"sh/ripcj2lw","slide":7,"name":"eyebrow","text":"STEPS 9–13","textPreview":"STEPS 9–13","textChars":10,"textLines":1,"bbox":[72,34,700,24]}
+{"kind":"textbox","id":"sh/sjids721","slide":7,"name":"slide-title","text":"Final approval converts the plan into controlled delivery","textPreview":"Final approval converts the plan into controlled delivery","textChars":57,"textLines":1,"bbox":[72,63,1050,54]}
+{"kind":"shape","id":"sh/dkrulc3m","slide":7,"name":"rule","bbox":[72,126,84,5]}
+{"kind":"textbox","id":"sh/el0vuhk7","slide":7,"name":"page-number","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1162,42,46,28]}
+{"kind":"shape","id":"sh/f69cnmls","slide":7,"bbox":[241,267,60,34]}
+{"kind":"shape","id":"sh/07idwr2d","slide":7,"bbox":[467,267,60,34]}
+{"kind":"shape","id":"sh/18repc3y","slide":7,"bbox":[693,267,60,34]}
+{"kind":"shape","id":"sh/upwvid43","slide":7,"bbox":[919,267,60,34]}
+{"kind":"textbox","id":"sh/va5cbilo","slide":7,"name":"text","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[76,194,170,30]}
+{"kind":"shape","id":"sh/vmtwfehs","slide":7,"name":"rule","bbox":[76,233,52,5]}
+{"kind":"textbox","id":"sh/alkf69g7","slide":7,"name":"text","text":"IMPLEMENT","textPreview":"IMPLEMENT","textChars":9,"textLines":1,"bbox":[76,256,180,30]}
+{"kind":"textbox","id":"sh/xobehozy","slide":7,"name":"text","text":"Begin approved procurement","textPreview":"Begin approved procurement","textChars":26,"textLines":1,"bbox":[76,304,180,58]}
+{"kind":"textbox","id":"sh/wn2x8jyd","slide":7,"name":"text","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[302,194,170,30]}
+{"kind":"shape","id":"sh/ni9wbehw","slide":7,"name":"rule","bbox":[302,233,52,5]}
+{"kind":"textbox","id":"sh/mx0f29gb","slide":7,"name":"text","text":"TRACK","textPreview":"TRACK","textChars":5,"textLines":1,"bbox":[302,256,180,30]}
+{"kind":"textbox","id":"sh/9kred4zm","slide":7,"name":"text","text":"Record milestone actuals","textPreview":"Record milestone actuals","textChars":24,"textLines":1,"bbox":[302,304,180,58]}
+{"kind":"textbox","id":"sh/8jix4zy1","slide":7,"name":"text","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[528,194,170,30]}
+{"kind":"shape","id":"sh/zu9w7uhk","slide":7,"name":"rule","bbox":[528,233,52,5]}
+{"kind":"textbox","id":"sh/et0fypgz","slide":7,"name":"text","text":"CONTRACT","textPreview":"CONTRACT","textChars":8,"textLines":1,"bbox":[528,256,180,30]}
+{"kind":"textbox","id":"sh/2pgfqpkr","slide":7,"name":"text","text":"Register supplier & contract","textPreview":"Register supplier & contract","textChars":28,"textLines":1,"bbox":[528,304,180,58]}
+{"kind":"textbox","id":"sh/3qpgju1c","slide":7,"name":"text","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[754,194,170,30]}
+{"kind":"shape","id":"sh/4ryxszix","slide":7,"name":"rule","bbox":[754,233,52,5]}
+{"kind":"textbox","id":"sh/ps7yl4ji","slide":7,"name":"text","text":"PAY","textPreview":"PAY","textChars":3,"textLines":1,"bbox":[754,256,180,30]}
+{"kind":"textbox","id":"sh/qt0fu903","slide":7,"name":"text","text":"Record payments & delivery","textPreview":"Record payments & delivery","textChars":26,"textLines":1,"bbox":[754,304,180,58]}
+{"kind":"textbox","id":"sh/ru9gnu1o","slide":7,"name":"text","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[980,194,170,30]}
+{"kind":"shape","id":"sh/cvixwzi9","slide":7,"name":"rule","bbox":[980,233,52,5]}
+{"kind":"textbox","id":"sh/dgryp4je","slide":7,"name":"text","text":"CLOSE","textPreview":"CLOSE","textChars":5,"textLines":1,"bbox":[980,256,180,30]}
+{"kind":"textbox","id":"sh/yh0fi90z","slide":7,"name":"text","text":"Complete activity and plan","textPreview":"Complete activity and plan","textChars":26,"textLines":1,"bbox":[980,304,180,58]}
+{"kind":"shape","id":"sh/zi9gre1k","slide":7,"name":"closeout","bbox":[76,410,1128,146]}
+{"kind":"textbox","id":"sh/9cbih83m","slide":7,"name":"text","text":"THE COMPLETE AUDIT TRAIL","textPreview":"THE COMPLETE AUDIT TRAIL","textChars":24,"textLines":1,"bbox":[104,434,430,24]}
+{"kind":"textbox","id":"sh/8b21o32h","slide":7,"name":"text","text":"Plan → Director decision → Committee votes → Management decision → Contract → Payment → Closure","textPreview":"Plan → Director decision → Committee votes → Management decision → Contract → Payment → Closure","textChars":95,"textLines":1,"bbox":[104,474,1050,48]}
+{"kind":"textbox","id":"sh/nat0fylw","slide":7,"name":"text","text":"Outcome: one traceable record from intent to delivery.","textPreview":"Outcome: one traceable record from intent to delivery.","textChars":54,"textLines":1,"bbox":[76,596,950,36]}
+{"kind":"textbox","id":"sh/mpkjmtkb","slide":7,"name":"footer","text":"MoA Procurement Tracking System  •  Approval workflow","textPreview":"MoA Procurement Tracking System  •  Approval workflow","textChars":53,"textLines":1,"bbox":[72,682,620,18]}
+{"kind":"notes","id":"nt/xxcg4o","slide":7,"text":"[Sources]\n- Workflow source: post-approval stage tracking, contract, payment and closure functions in the local PTS application."}
