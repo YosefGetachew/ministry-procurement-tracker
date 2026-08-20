@@ -31,6 +31,8 @@ ministry-procurement-tracker/
 └── README.md
 ```
 
+For Git publishing and the production Ministry-server procedure, see **[DEPLOYMENT.md](DEPLOYMENT.md)**.
+
 ## 1. Prerequisites
 
 - [Node.js](https://nodejs.org) 18 or later (`node -v` to check)
@@ -205,7 +207,6 @@ routes are further role-gated (see `backend/middleware/requireRole.js` and each 
 
 Items still requiring a later implementation or Ministry decision:
 
-- Ethiopian/Gregorian dual-entry calendar conversion (§9); canonical Gregorian storage is implemented.
 - Scheduled overdue/contract-due alert refresh jobs; delay is currently calculated on read.
 - Full configurable Admin UI for methods, stage templates, controlled values and reference patterns.
 - Final Procurement Directorate approval of official report column labels/order.
@@ -215,7 +216,6 @@ Items still requiring a later implementation or Ministry decision:
 
 ## Notes for production use
 
-- Set `NODE_ENV=production` so session cookies are marked `Secure`, and serve the app over HTTPS
-- Rotate `JWT_SECRET` and every seeded demo account's password
-- Use environment-specific `.env` files and a managed PostgreSQL instance
-- Run `npm run build` in `frontend/` and serve the static output behind a real web server (e.g. nginx) rather than Vite's dev server
+- Use `docker-compose.production.yml`, an uncommitted `.env.production`, and host Nginx with HTTPS as documented in **[DEPLOYMENT.md](DEPLOYMENT.md)**.
+- Production initialization runs `schema.sql` only for a new empty PostgreSQL volume and deliberately does not run demo `seed.sql`.
+- Keep PostgreSQL and the backend on the private Docker network; publish only host Nginx on ports 80/443.

@@ -31,6 +31,8 @@ if (!process.env.JWT_SECRET) {
 
 const app = express();
 
+if (process.env.NODE_ENV === 'production') app.set('trust proxy', 1);
+
 app.use(helmet());
 app.use((req, res, next) => {
   req.traceId = req.get('x-request-id') || randomUUID();
@@ -88,6 +90,15 @@ app.use((err, req, res, next) => {
 });
 
 const PORT = process.env.PORT || 4000;
-app.listen(PORT, () => {
+const server = app.listen(PORT, () => {
   console.log(`Ministry of Agriculture procurement API running on http://localhost:${PORT}`);
 });
+
+function shutdown(signal) {
+  console.log(`${signal} received; closing the API`);
+  server.close(() => pool.end().finally(() => process.exit(0)));
+  setTimeout(() => process.exit(1), 10000).unref();
+}
+
+process.on('SIGTERM', () => shutdown('SIGTERM'));
+process.on('SIGINT', () => shutdown('SIGINT'));
